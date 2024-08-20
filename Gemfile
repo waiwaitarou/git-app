@@ -71,7 +71,12 @@ group :test do
   gem "webdrivers"
 end
 
+<<<<<<< Updated upstream
 gem 'tzinfo-data', platforms: [:mingw,
   
 gem 'pry-rails'
 gem 'devise'
+=======
+gem 'devise'
+gem 'pry-rails'
+>>>>>>> Stashed changes
